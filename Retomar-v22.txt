@@ -1,0 +1,9 @@
+Versão 22 concluída e publicada.
+As seis funcionalidades estão implementadas em atlantico-sul e documentadas em README.md e REVISAO.md.
+Commit: e9bccb3b2db56f45dc489aff4aed09440a72d2cf.
+Testes: 16 suítes verificadas, com repetições finais de mandates/systems/offline e balanceamento.
+Balanceamento final: Brasil 10 anos/21 pesquisas; Islândia 5 anos/6; Catalunha 5 anos/5.
+Rodada adicional de trinta anos concluída em 2058, exportação e carregamento verificados.
+Publicado com acesso privado: https://atlantico-sul-estrategia.determinedbetta2.chatgpt.site
+HTML offline atualizado: Ordem-Mundial.html (48 scripts).
+Não há servidor de prévia nem testes pendentes desta implementação.
